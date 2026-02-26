@@ -1,0 +1,15 @@
+HOW TO SETUP A BRANCH
+(THERE ARE TWO WAYS)
+
+Method 1 (for specifically just creating a branch)
+1. type in "git branch <NameOfBranch>"
+2. you are done!!!
+
+Method 2 (to create a branch and go into it all at once)
+1. type in "git checkout -b <NameOfBranch>"
+2. Thats it !!!
+
+BONUS LESSON 
+HOW TO GO INTO A BRANCH
+1. type in "git checkout <BranchName>"
+2. You are in!!
