@@ -1,0 +1,7 @@
+HOW TO PUSH REPOS TO GIT
+1. first create a repo on github
+2. then commit your project
+3. get your remote url from git 
+4. use this command to add your remote "git remote add origin <your url>"
+5. then use this command "git push -u orgin <main>"
+6. Thats it, you have pushed to github 
